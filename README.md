@@ -6,7 +6,7 @@ This project aims to identify and classify agricultural pests using Deep Learnin
 
 📊 Dataset
 
-Source: Kaggle - Pest Dataset
+Source: Kaggle - Pest Dataset - https://www.kaggle.com/datasets/simranvolunesia/pest-dataset
 
 Type: Image dataset
 
